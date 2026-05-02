@@ -28,7 +28,7 @@ stalker2-cards-assets/
 │   ├── tape-01-cover-variant-01.jpg … tape-01-cover-variant-27.jpg
 │   ├── tape-02-cover-variant-01.jpg … tape-02-cover-variant-13.jpg
 │   └── tape-03-cover-variant-01.jpg … tape-03-cover-variant-28.jpg
-└── tape-covers-templates/      # Шаблони обкладинок (.afphoto + JPEG)
+└── tape-inserts-templates/     # Шаблони касетних вставок (.afphoto + JPEG)
 ```
 
 ## Статистика
@@ -142,4 +142,4 @@ stalker2-cards-assets/
 - **Tape 02** — синьо-фіолетова (Сидорович, Моноліт, вчений НДІЧАЗ, Зулус)
 - **Tape 03** — радіоактивно-зелена (Дуга, Х-19, Альфа, Грозова Ягода)
 
-Директорія `tape-covers-templates/` містить вихідні шаблони обкладинок у форматі Affinity Photo (`.afphoto`) та JPEG для ручного доопрацювання.
+Директорія `tape-inserts-templates/` містить вихідні шаблони касетних вставок та обкладинок у форматі Affinity Photo (`.afphoto`) та JPEG для ручного доопрацювання.
