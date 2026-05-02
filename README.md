@@ -23,7 +23,7 @@ stalker2-cards-assets/
 ├── tape-02-side-B.m3u
 ├── tape-03-side-A.m3u
 ├── tape-03-side-B.m3u
-└── tape-inserts.txt    # Переліки треків для касетних вставок
+└── tape-listings.txt    # Переліки треків для касетних вставок
 ```
 
 ## Статистика
